@@ -91,5 +91,4 @@ This project is licensed under the MIT License.
 ## Contact
 For any inquiries, you can reach the project author at:
 
-Furkan YAYLA
-Linkedin: linkedin.com/in/yaylafurkan
+Furkan YAYLA [Linkedin](linkedin.com/in/yaylafurkan).
